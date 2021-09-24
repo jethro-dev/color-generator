@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is a a color generator made with ReactJS.
+This is a a color generator. Users can click to copy the color to clipboard or double click to search.
 
 ## Build with ⚙️
 
